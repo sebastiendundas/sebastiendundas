@@ -3,6 +3,8 @@
 Hi, Im Sebastien, a student studying Bachelor of Cybersecurity @ LaTrobe University Bundoora.
 Im currently working on making a portfolio website, and various cybersecurity projects, such as creating a homelab, a SIEM, and doing various penetration testing and networking projects
 
+You can reach me through my email: sebastienjdundas@gmail.com
+
 <!--
 **sebastiendundas/sebastiendundas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
